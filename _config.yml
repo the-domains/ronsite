@@ -6,9 +6,9 @@ color:
   saturation: 0.5795939939562231
   rhythmicContrast: 0.14778327732346952
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#0F110E'
+    - '#2A5C3F'
+    - '#6C906A'
+    - '#FFFEFF'
+    - '#FFB8FF'
 name: RonSite
