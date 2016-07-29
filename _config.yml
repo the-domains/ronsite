@@ -1,4 +1,3 @@
-layout_spectrum: 0.4733841819688678
 typography_spectrum: 0.12070093513466418
 color:
   brandStrength: 0.29753710236400366
@@ -11,5 +10,7 @@ color:
     - '#6C906A'
     - '#FFFEFF'
     - '#FFB8FF'
+layout_spectrum: 0.4733841819688678
 name: RonSite
 title: The Poetry of Ron Searls
+description: A life in poems
