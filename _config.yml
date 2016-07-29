@@ -1,0 +1,14 @@
+layout_spectrum: 0.4733841819688678
+typography_spectrum: 0.12070093513466418
+color:
+  brandStrength: 0.29753710236400366
+  lightness: 0.5194397955201566
+  saturation: 0.5795939939562231
+  rhythmicContrast: 0.14778327732346952
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: RonSite
